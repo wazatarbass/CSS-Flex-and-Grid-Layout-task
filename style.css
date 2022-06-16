@@ -1,0 +1,74 @@
+* {
+  width: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(0, 0%, 95%);
+  font-size: 15px;
+}
+main {
+  width: 1440px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  
+  height: px;
+}
+
+.sedans{
+    
+}
+
+.headings {
+  color: hsl(0, 0%, 95%);
+  font-family:'Lexend Deca', sans-serif;
+}
+
+.first-content {
+  background-color: hsl(31, 77%, 52%);
+  display: ;
+  width: 260px;
+  padding: 2em;
+  font-family: 'Lexend Deca', sans-serif;;
+}
+p{
+    color:hsl(0, 0%, 95%) ;
+}
+
+.second-content {
+  background-color: hsl(184, 100%, 22%);
+  display: ;
+  width: 260px;
+  padding: 2em;
+}
+
+.third-content {
+  background-color: hsl(179, 100%, 13%);
+  display: ;
+  width: 260px;
+  padding: 2em;
+}
+
+button{
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+#fbtn {
+background-color: hsl(0, 0%, 95%);
+color:hsl(31, 77%, 52%) ;
+
+}
+#sbtn{
+background-color : hsl(0, 0%, 95%);
+color:  hsl(184, 100%, 22%);
+}
+#tbtn{
+background-color: hsl(0, 0%, 95%);
+    color: hsl(179, 100%, 13%);
+}
